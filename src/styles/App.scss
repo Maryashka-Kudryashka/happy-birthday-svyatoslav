@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+
+  .header {
+    margin: 0;
+    padding: 1em 0;
+    background-color: #eef2dd;
+    font-family: 'Pacifico', cursive;
+    font-size: 5em;
+    color: #de3b47;
+
+    @media (max-width: 800px) {
+      font-size: 3em;
+    }
+  }
+
+  .section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @media (max-width: 800px) {
+      flex-direction: column;
+    }
+
+    &.light {
+      background-color: #b8d8d4;
+    }
+
+    &.medium {
+      background-color: #799f9f;
+    }
+
+    &.dark {
+      background-color: #516364;
+    }
+
+    .text {
+      font-size: 1.5em;
+      height: fit-content;
+      padding: 5em;
+      width: 50%;
+      font-family: 'Comfortaa', cursive;
+      font-weight: 900;
+
+      @media (max-width: 800px) {
+        padding: 1em;
+        font-size: 1em;
+      }
+
+      &.yellow {
+        color: #eef2dd;
+      }
+
+      &.light {
+        color: #b8d8d4;
+      }
+
+      &.medium {
+        color: #799f9f;
+      }
+
+      &.dark {
+        color: #516364;
+      }
+    }
+
+    .image {
+      width: 45em;
+      height: 25em;
+      object-fit: cover;
+      border: 7px solid #de3b47;
+      border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+
+      @media (max-width: 800px) {
+        width: 20em;
+        height: 15em;
+      }
+    }
+  }
+
+  .footer {
+    margin: 0;
+    padding: 1.5em 0;
+    background-color: #eef2dd;
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    color: #de3b47;
+
+    @media (max-width: 800px) {
+      font-size: 2em;
+    }
+  }
+}

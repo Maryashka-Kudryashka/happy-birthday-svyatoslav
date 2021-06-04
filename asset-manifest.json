@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-svyatoslav/static/css/main.135cd97e.chunk.css",
+    "main.js": "/happy-birthday-svyatoslav/static/js/main.d6ba0544.chunk.js",
+    "main.js.map": "/happy-birthday-svyatoslav/static/js/main.d6ba0544.chunk.js.map",
+    "runtime-main.js": "/happy-birthday-svyatoslav/static/js/runtime-main.b60df977.js",
+    "runtime-main.js.map": "/happy-birthday-svyatoslav/static/js/runtime-main.b60df977.js.map",
+    "static/js/2.061a2a7c.chunk.js": "/happy-birthday-svyatoslav/static/js/2.061a2a7c.chunk.js",
+    "static/js/2.061a2a7c.chunk.js.map": "/happy-birthday-svyatoslav/static/js/2.061a2a7c.chunk.js.map",
+    "index.html": "/happy-birthday-svyatoslav/index.html",
+    "static/css/main.135cd97e.chunk.css.map": "/happy-birthday-svyatoslav/static/css/main.135cd97e.chunk.css.map",
+    "static/js/2.061a2a7c.chunk.js.LICENSE.txt": "/happy-birthday-svyatoslav/static/js/2.061a2a7c.chunk.js.LICENSE.txt",
+    "static/media/photo1.352d46ea.JPG": "/happy-birthday-svyatoslav/static/media/photo1.352d46ea.JPG",
+    "static/media/photo10.3c910827.jpeg": "/happy-birthday-svyatoslav/static/media/photo10.3c910827.jpeg",
+    "static/media/photo11.c82aa327.jpg": "/happy-birthday-svyatoslav/static/media/photo11.c82aa327.jpg",
+    "static/media/photo12.17f1650a.jpg": "/happy-birthday-svyatoslav/static/media/photo12.17f1650a.jpg",
+    "static/media/photo13.c4747474.jpeg": "/happy-birthday-svyatoslav/static/media/photo13.c4747474.jpeg",
+    "static/media/photo14.3674fc59.jpg": "/happy-birthday-svyatoslav/static/media/photo14.3674fc59.jpg",
+    "static/media/photo15.c70e25ef.jpeg": "/happy-birthday-svyatoslav/static/media/photo15.c70e25ef.jpeg",
+    "static/media/photo16.d3031bbc.jpeg": "/happy-birthday-svyatoslav/static/media/photo16.d3031bbc.jpeg",
+    "static/media/photo2.1d5af846.jpg": "/happy-birthday-svyatoslav/static/media/photo2.1d5af846.jpg",
+    "static/media/photo3.36c0531e.JPG": "/happy-birthday-svyatoslav/static/media/photo3.36c0531e.JPG",
+    "static/media/photo4.66b30bc1.jpeg": "/happy-birthday-svyatoslav/static/media/photo4.66b30bc1.jpeg",
+    "static/media/photo5.49510772.JPG": "/happy-birthday-svyatoslav/static/media/photo5.49510772.JPG",
+    "static/media/photo6.a67312e5.JPG": "/happy-birthday-svyatoslav/static/media/photo6.a67312e5.JPG",
+    "static/media/photo7.0144091b.jpg": "/happy-birthday-svyatoslav/static/media/photo7.0144091b.jpg",
+    "static/media/photo8.a328e375.jpg": "/happy-birthday-svyatoslav/static/media/photo8.a328e375.jpg",
+    "static/media/photo9.93cedfdb.jpeg": "/happy-birthday-svyatoslav/static/media/photo9.93cedfdb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b60df977.js",
+    "static/js/2.061a2a7c.chunk.js",
+    "static/css/main.135cd97e.chunk.css",
+    "static/js/main.d6ba0544.chunk.js"
+  ]
+}
